@@ -57,8 +57,8 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 MY GITHUB STATS
 <div>
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=paolostabile&show_icons=true&theme=gotham" alt="paolostabile"/>
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolostabile&theme=gotham" alt="paolostabile"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=paolostabile&show_icons=true&theme=gotham" alt="paolostabile"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolostabile&theme=gotham" alt="paolostabile"/>
   <img height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paolostabile&theme=nord_bright" alt="paolostabile"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=paolostabile&theme=gotham" alt="paolostabile"/>
 </div>
