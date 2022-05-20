@@ -13,7 +13,7 @@ Hi, <br />
 I'm Paolo Stabile, a passionate full stack web developer and a freelance software engineer from Croatia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72348079/166508234-b5c9f9b4-1732-49cb-a3bb-edcd2abf4f5b.gif" width="500" height="320" />
+<img autoplay align="right" alt="GIF" src="https://user-images.githubusercontent.com/72348079/166508234-b5c9f9b4-1732-49cb-a3bb-edcd2abf4f5b.gif" width="500" height="320"  />
   
 - 💼 Any freelance work? [Email me](mailto:paolostabile@yahoo.com) :)
 - 💬 Ask me about anything, I am happy to help;
