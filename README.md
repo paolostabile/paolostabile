@@ -9,7 +9,7 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/paolostabile/paolostabile/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/paolostabile/paolostabile/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&section=footer"/>
 
