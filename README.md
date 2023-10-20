@@ -13,8 +13,17 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&section=footer"/>
 
-# 💫 About Me: (DRAFT)
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# About Me:
+I am a devoted Software Developer with +4 years of experience and demonstrated working expertise in the IT industry. I am skilled in .NET development environment, cloud solutions, cybersecurity, leadership and organization. I am direct, passionate, ambitious, and highly motivated.
+
+With my multidisciplinary approach and management experience, I always see the bigger picture and still keep an eye on the detail. As a person, I am down-to-earth, communicative, and high-spirited. My core passions are related to computers, education, music and waterpolo.
+
+I believe that discipline and good work ethics can take you places!
+
+Always opened for remote offers, fell free to reach out.
+
+<a href="https://hr.linkedin.com/in/paolo-stabile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="50%"/>
 </div>
