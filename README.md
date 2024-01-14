@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=40&duration=2500&pause=500&color=3F51B5&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!;Welcome+to+my+Github+profile;I'm+Paolo+Stabile;Software+Developer+at+Teva+Pharmaceuticals;College+Assistant+at+VSITE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=40&duration=2500&pause=500&color=3F51B5&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!;Welcome+to+my+Github+profile;I'm+Paolo+Stabile;Software+Developer+at+Teva+Pharmaceuticals;Assistant+Lecturer+at+VSITE)](https://git.io/typing-svg)
 
 <div align="center">
   <img width=50% src="https://spotify-github-profile.vercel.app/api/view?uid=212ayacd3yj7gk7o52gxfgnhy&cover_image=true&theme=default&show_offline=true&background_color=121212"/></br>
