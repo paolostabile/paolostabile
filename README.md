@@ -14,13 +14,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&section=footer"/>
 
 # About Me:
-I am a devoted Software Developer with +4 years of experience and demonstrated working expertise in the IT industry. I am skilled in .NET development environment, cloud solutions, cybersecurity, leadership and organization. I am direct, passionate, ambitious, and highly motivated.
+Experienced Software Developer with over four years of dedicated service in the IT industry. Proficient in .NET development, cloud solutions and cybersecurity while also excelling in leadership and organization. Known for a direct, passionate, and ambitious approach which drives success in every project.
 
-With my multidisciplinary approach and management experience, I always see the bigger picture and still keep an eye on the detail. As a person, I am down-to-earth, communicative, and high-spirited. My core passions are related to computers, education, music and waterpolo.
+In addition to my industry experience, I serve as an Assistant Lecturer at VSITE, where I contribute to the education and development of students and aspiring professionals.
 
-I believe that discipline and good work ethics can take you places!
+My multidisciplinary expertise and management background enable me to grasp the bigger picture while maintaining attention to detail. As a grounded and communicative individual, I foster collaborative environments to achieve goals efficiently.
 
-Always opened for remote offers, fell free to reach out.
+I firmly believe in the power of discipline and strong work ethics to propel career growth.
+
+Beyond my professional endeavors, I am deeply passionate about computers, education, music and water polo.
+
+Open to remote opportunities worldwide, feel free to connect via LinkedIn or email.
 
 <a href="https://hr.linkedin.com/in/paolo-stabile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
