@@ -14,15 +14,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&section=footer"/>
 
 # About Me:
-Experienced Software Developer with over four years of dedicated service in the IT industry. Proficient in .NET development, cloud solutions and cybersecurity while also excelling in leadership and organization. Known for a direct, passionate, and ambitious approach which drives success in every project.
+Experienced Senior Software Developer with over five years of dedicated work in the IT industry. 
 
-In addition to my industry experience, I serve as an Assistant Lecturer at VSITE, where I contribute to the education and development of students and aspiring professionals.
+Proficient in .NET ecosystem while also excelling in leadership and organization. 
 
-My multidisciplinary expertise and management background enable me to grasp the bigger picture while maintaining attention to detail. As a grounded and communicative individual, I foster collaborative environments to achieve goals efficiently.
-
-I firmly believe in the power of discipline and strong work ethics to propel career growth.
-
-Beyond my professional endeavors, I am deeply passionate about computers, education, music and water polo.
+In addition to my industry experience, I work as an Assistant Lecturer at VSITE, where I contribute in education of students and aspiring professionals.
 
 Open to remote opportunities worldwide, feel free to connect via LinkedIn or email.
 
