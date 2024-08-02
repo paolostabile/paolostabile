@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=40&duration=2500&pause=500&color=3F51B5&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!;Welcome+to+my+Github+profile;I'm+Paolo+Stabile;Software+Developer+at+Teva+Pharmaceuticals;Assistant+Lecturer+at+VSITE)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width=50% src="https://spotify-github-profile.vercel.app/api/view?uid=212ayacd3yj7gk7o52gxfgnhy&cover_image=true&theme=default&show_offline=true&background_color=121212"/></br>
+  <img width=50% src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=212ayacd3yj7gk7o52gxfgnhy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/></br>
   <a href="https://visitcount.itsvg.in">
     <img width=25% src="https://visitcount.itsvg.in/api?id=paolostabile&label=Views&color=6&icon=0&pretty=true" />
   </a>
