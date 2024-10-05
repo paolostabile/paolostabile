@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F51B5&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=40&duration=2500&pause=500&color=3F51B5&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!;Welcome+to+my+Github;I'm+Paolo+Stabile;Senior+Software+Developer;College+Professor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=40&duration=2500&pause=500&color=3F51B5&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!;Welcome+to+my+Github;I'm+Paolo+Stabile;Senior+Software+Developer;College+Lecturer)](https://git.io/typing-svg)
 
 ![Snake animation](https://github.com/paolostabile/paolostabile/blob/output/github-contribution-grid-snake-dark.svg)
 
